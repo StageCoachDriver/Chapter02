@@ -18,3 +18,6 @@ A starter program for writing JavaScript games.
 
 3. This is item #3 in the readme.md file
    providid by Bill Jones
+
+4. Another change to README
+   by Bill
